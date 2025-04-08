@@ -1,7 +1,8 @@
 ## Hi there, I am Gaballa 👋
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaballaGit&hide_progress=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaballaGit&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **GaballaGit/GaballaGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
