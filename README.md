@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I am Gaballa </h1>
 
 <span align="center">
-I like Golang, Front and Back end development are really cool! Right now I am trying to get more into Devops since it intrests me.  
+I like Golang, Front and Back end development are really cool! Right now I am trying to get more into Devops and Cloud since it intrests me.  
 </span>
 <!--
 **GaballaGit/GaballaGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
