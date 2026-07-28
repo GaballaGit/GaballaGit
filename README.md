@@ -3,6 +3,9 @@
 <span align="center">
 I like Golang, Front and Back end development are really cool! Right now I am trying to get more into Devops and Cloud since it intrests me.  
 </span>
+
+<img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/fbb7f472-d752-421f-8d5f-13d2c348c48b" />
+
 <!--
 **GaballaGit/GaballaGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
